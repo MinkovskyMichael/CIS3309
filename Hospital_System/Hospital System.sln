@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital Patient System", "Hospital demo\Hospital Patient System.csproj", "{915574AB-E6C4-424E-858F-E476682BCF9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUnitTesting", "MyUnitTesting\MyUnitTesting.csproj", "{AB9B9F88-971B-44E7-B694-C860AA548B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915574AB-E6C4-424E-858F-E476682BCF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915574AB-E6C4-424E-858F-E476682BCF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915574AB-E6C4-424E-858F-E476682BCF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915574AB-E6C4-424E-858F-E476682BCF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9B9F88-971B-44E7-B694-C860AA548B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9B9F88-971B-44E7-B694-C860AA548B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9B9F88-971B-44E7-B694-C860AA548B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9B9F88-971B-44E7-B694-C860AA548B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

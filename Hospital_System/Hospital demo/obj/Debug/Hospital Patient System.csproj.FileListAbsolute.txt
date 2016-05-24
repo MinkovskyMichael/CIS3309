@@ -1,0 +1,171 @@
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.FrmAppoitmentView.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.frmCreateAppoitment.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\tue49753\Desktop\Hospital system\Hospital demo\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAppoitmentView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAppoitment.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital system\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmReleaseView.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmRelease.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAppoitmentView.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAppoitment.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmRelease.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmReleaseView.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\Moisha\Desktop\for cis 3309 c#\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmRelease.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmReleaseView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAdmittanceView.resources
+C:\Users\TheMoisha\Documents\Temple\2015 falls\c#\C# exercises\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAdmittance.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAdmittanceView.resources
+C:\Users\Moisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAdmittance.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAdmittanceView.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAdmittance.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmRelease.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmReleaseView.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\tue49753\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe.config
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDatabase.accdb
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.Designer.cs
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsc
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xsd
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\MyDataBase.xss
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\bakcground2.jpg
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalbackground.jpg
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Pictures\hospitalicon.png
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.exe
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\bin\Debug\Hospital demo.pdb
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csprojResolveAssemblyReference.cache
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAddPatient.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmAddDoctor.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.FrmAdmittanceView.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmCreateAdmittance.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmDoctorView.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmHospitalSystem.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmPatientView.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmRelease.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.frmReleaseView.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital_demo.Properties.Resources.resources
+C:\Users\TheMoisha\Desktop\Hospital System\Hospital demo\obj\Debug\Hospital Patient System.csproj.GenerateResource.Cache
